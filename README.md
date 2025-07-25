@@ -16,7 +16,7 @@ Installation and Setup
 To run the code in this repository, follow these steps:
 
 Clone the Repository:
-git clone https://github.com/your-username/fraud-detection-challenge.git
+[git clone https://github.com/Mzluci9/Ehanced_Fraud_Detection_Ecommerce_Banking 
 cd fraud-detection-challenge
 
 
@@ -226,5 +226,3 @@ Explore advanced models like XGBoost or neural networks.
 Address Logistic Regression convergence issues with better scaling or solver options.
 Incorporate additional features, such as device fingerprinting or behavioral patterns.
 
-Contact
-For questions or feedback, contact Michael Zewdu Lemma at [your-email@example.com].
