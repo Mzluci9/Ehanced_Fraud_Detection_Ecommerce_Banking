@@ -378,10 +378,8 @@ git push origin feature/your-feature-name
 
 ## 📞 Support
 
-- **📧 Email**: [your-email@domain.com]
-- **🐛 Issues**: [GitHub Issues](https://github.com/your-repo/issues)
-- **📖 Documentation**: [Project Wiki](https://github.com/your-repo/wiki)
-- **💬 Discussions**: [GitHub Discussions](https://github.com/your-repo/discussions)
+- **📧 Email**: michaelzewdu00@gmail.com
+
 
 ## 📄 License
 
@@ -389,12 +387,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- **Data Sources**: [Credit Card Fraud Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 - **Libraries**: scikit-learn, pandas, streamlit, plotly
 - **Community**: Open source contributors and reviewers
 
 ---
 
-**Built with ❤️ for the financial services industry**
+**Built with effort for the financial services industry**
 
 *This project demonstrates advanced machine learning techniques applied to real-world fraud detection challenges, showcasing both technical excellence and business impact.*
+
